@@ -485,7 +485,7 @@ X: 20.1036 Y: 45.25
 X: 16.1036 Y: 49.25
 X: 15.75 Y: 49.25
 X: 15.75 Y: 17.5741
-Separation 1: 0.5, Separation 2: 0.5, Angle: 0 degrees, Keep original separations: No
+Separation 1: 0.5, Separation 2: 0.5, Angle: 0 degrees, Keep original separations: Yes
 X: 35 Y: 18.5
 X: 40.5 Y: 18.5
 X: 40.5 Y: 19
@@ -509,7 +509,7 @@ X: 34 Y: 18
 X: 34 Y: 23
 X: 34.5 Y: 23
 X: 34.5 Y: 18.5
-Separation 1: 0.5, Separation 2: 0.5, Angle: 25 degrees, Keep original separations: Yes
+Separation 1: 0.5, Separation 2: 0.5, Angle: 0 degrees, Keep original separations: No
 X: 16.25 Y: 20.0741
 X: 16.3504 Y: 20.5762
 X: 16.25 Y: 20.5762
@@ -990,7 +990,7 @@ X: 20.1036 Y: 45.25
 X: 16.1036 Y: 49.25
 X: 15.75 Y: 49.25
 X: 15.75 Y: 17.5741
-Separation 1: 0.5, Separation 2: 0.5, Angle: 25 degrees, Keep original separations: No
+Separation 1: 0.5, Separation 2: 0.5, Angle: 0 degrees, Keep original separations: No
 X: 35 Y: 18.5
 X: 40.5 Y: 18.5
 X: 40.5 Y: 19.0714
@@ -1014,7 +1014,7 @@ X: 34 Y: 18
 X: 34 Y: 23
 X: 34.5 Y: 23
 X: 34.5 Y: 18.5
-Separation 1: 0.5, Separation 2: 0.5, Angle: 45 degrees, Keep original separations: Yes
+Separation 1: 0.5, Separation 2: 0.5, Angle: 25 degrees, Keep original separations: Yes
 X: 16.25 Y: 20.0743
 X: 16.3716 Y: 20.6827
 X: 16.25 Y: 20.626
@@ -1541,7 +1541,7 @@ X: 16.1035 Y: 49.2499
 X: 15.7499 Y: 49.2499
 X: 15.7501 Y: 48.8962
 X: 15.75 Y: 17.5745
-Separation 1: 0.5, Separation 2: 0.5, Angle: 45 degrees, Keep original separations: No
+Separation 1: 0.5, Separation 2: 0.5, Angle: 25 degrees, Keep original separations: Yes
 X: 40.4998 Y: 19
 X: 40.4999 Y: 19.5517
 X: 39.3168 Y: 19
@@ -1573,7 +1573,7 @@ X: 33.9999 Y: 22.9999
 X: 34.4999 Y: 22.9999
 X: 34.4999 Y: 18.5
 X: 40.4998 Y: 18.4999
-Separation 1: 0.5, Separation 2: 0.5, Angle: 75 degrees, Keep original separations: Yes
+Separation 1: 0.5, Separation 2: 0.5, Angle: 25 degrees, Keep original separations: No
 X: 16.25 Y: 20.0743
 X: 16.3743 Y: 20.6959
 X: 16.25 Y: 20.6379
@@ -2079,7 +2079,7 @@ X: 16.1035 Y: 49.2499
 X: 15.7499 Y: 49.2499
 X: 15.7501 Y: 48.8962
 X: 15.75 Y: 17.5745
-Separation 1: 0.5, Separation 2: 0.5, Angle: 75 degrees, Keep original separations: No
+Separation 1: 0.5, Separation 2: 0.5, Angle: 25 degrees, Keep original separations: No
 X: 40.4998 Y: 19
 X: 40.4998 Y: 19.6738
 X: 39.0548 Y: 19
@@ -2107,7 +2107,7 @@ X: 33.9999 Y: 22.9999
 X: 34.4999 Y: 22.9999
 X: 34.4999 Y: 18.5
 X: 40.4998 Y: 18.4999
-Separation 1: 0.5, Separation 2: 0.5, Angle: 90 degrees, Keep original separations: Yes
+Separation 1: 0.5, Separation 2: 0.5, Angle: 45 degrees, Keep original separations: Yes
 X: 16.25 Y: 20.0744
 X: 16.4268 Y: 20.9582
 X: 16.25 Y: 20.7815
@@ -2637,7 +2637,7 @@ X: 16.1035 Y: 49.2499
 X: 15.7499 Y: 49.2499
 X: 15.75 Y: 48.8962
 X: 15.75 Y: 17.5741
-Separation 1: 0.5, Separation 2: 0.5, Angle: 90 degrees, Keep original separations: No
+Separation 1: 0.5, Separation 2: 0.5, Angle: 45 degrees, Keep original separations: Yes
 X: 40.4998 Y: 19
 X: 40.4998 Y: 19.7071
 X: 39.7927 Y: 19
@@ -2674,7 +2674,7 @@ X: 33.9998 Y: 22.9999
 X: 34.4999 Y: 22.9999
 X: 34.4999 Y: 18.4999
 X: 40.4998 Y: 18.4999
-Separation 1: 0.5, Separation 2: 0.5, Angle: -75 degrees, Keep original separations: Yes
+Separation 1: 0.5, Separation 2: 0.5, Angle: 45 degrees, Keep original separations: No
 X: 16.25 Y: 20.0744
 X: 16.4271 Y: 20.9595
 X: 16.25 Y: 20.7825
@@ -3187,7 +3187,7 @@ X: 16.1035 Y: 49.2499
 X: 15.7499 Y: 49.2499
 X: 15.75 Y: 48.8962
 X: 15.75 Y: 17.5741
-Separation 1: 0.5, Separation 2: 0.5, Angle: -75 degrees, Keep original separations: No
+Separation 1: 0.5, Separation 2: 0.5, Angle: 45 degrees, Keep original separations: No
 X: 40.4998 Y: 19
 X: 40.4998 Y: 19.8181
 X: 39.6817 Y: 19
@@ -3219,7 +3219,7 @@ X: 33.9998 Y: 22.9999
 X: 34.4999 Y: 22.9999
 X: 34.4999 Y: 18.4999
 X: 40.4998 Y: 18.4999
-Separation 1: 0.5, Separation 2: 0.5, Angle: -45 degrees, Keep original separations: Yes
+Separation 1: 0.5, Separation 2: 0.5, Angle: 75 degrees, Keep original separations: Yes
 X: 16.2499 Y: 20.0744
 X: 17.7737 Y: 27.693
 X: 16.2499 Y: 22.0062
@@ -3661,7 +3661,7 @@ X: 20.1035 Y: 45.2499
 X: 16.1035 Y: 49.25
 X: 15.7499 Y: 49.25
 X: 15.7499 Y: 17.5743
-Separation 1: 0.5, Separation 2: 0.5, Angle: -45 degrees, Keep original separations: No
+Separation 1: 0.5, Separation 2: 0.5, Angle: 75 degrees, Keep original separations: Yes
 X: 40.4999 Y: 19
 X: 40.4999 Y: 20.9317
 X: 39.9823 Y: 19
@@ -3696,7 +3696,7 @@ X: 33.9999 Y: 22.9999
 X: 34.4999 Y: 22.9999
 X: 34.5 Y: 18.5
 X: 40.4999 Y: 18.5
-Separation 1: 0.5, Separation 2: 0.5, Angle: -25 degrees, Keep original separations: Yes
+Separation 1: 0.5, Separation 2: 0.5, Angle: 75 degrees, Keep original separations: No
 X: 16.2499 Y: 20.0744
 X: 17.9254 Y: 28.4518
 X: 16.2499 Y: 22.1987
@@ -4121,7 +4121,7 @@ X: 20.1035 Y: 45.2499
 X: 16.1035 Y: 49.25
 X: 15.7499 Y: 49.25
 X: 15.7499 Y: 17.5743
-Separation 1: 0.5, Separation 2: 0.5, Angle: -25 degrees, Keep original separations: No
+Separation 1: 0.5, Separation 2: 0.5, Angle: 75 degrees, Keep original separations: No
 X: 40.4999 Y: 19
 X: 40.4999 Y: 21.184
 X: 39.9147 Y: 19
@@ -4153,7 +4153,7 @@ X: 33.9999 Y: 22.9999
 X: 34.4999 Y: 22.9999
 X: 34.5 Y: 18.5
 X: 40.4999 Y: 18.5
-Separation 1: 1, Separation 2: 1, Angle: 0 degrees, Keep original separations: Yes
+Separation 1: 0.5, Separation 2: 0.5, Angle: 90 degrees, Keep original separations: Yes
 X: 19.2499 Y: 37.6237
 X: 19.2499 Y: 44.6892
 X: 18.7499 Y: 45.1892
@@ -4572,7 +4572,7 @@ X: 19.2499 Y: 32.5245
 X: 15.25 Y: 12.5245
 X: 15.25 Y: 15.0741
 X: 19.2499 Y: 35.0741
-Separation 1: 1, Separation 2: 1, Angle: 0 degrees, Keep original separations: No
+Separation 1: 0.5, Separation 2: 0.5, Angle: 90 degrees, Keep original separations: Yes
 X: 40.5 Y: 19
 X: 40.5 Y: 22.5
 X: 40 Y: 22.5
@@ -4604,7 +4604,7 @@ X: 41 Y: 18
 X: 34 Y: 18
 X: 34 Y: 18.5
 X: 40.5 Y: 18.5
-Separation 1: 1, Separation 2: 1, Angle: 25 degrees, Keep original separations: Yes
+Separation 1: 0.5, Separation 2: 0.5, Angle: 90 degrees, Keep original separations: No
 X: 19.2499 Y: 37.6237
 X: 19.2499 Y: 44.6892
 X: 18.7499 Y: 45.1892
@@ -5017,7 +5017,7 @@ X: 19.2499 Y: 32.5245
 X: 15.25 Y: 12.5245
 X: 15.25 Y: 15.0741
 X: 19.2499 Y: 35.0741
-Separation 1: 1, Separation 2: 1, Angle: 25 degrees, Keep original separations: No
+Separation 1: 0.5, Separation 2: 0.5, Angle: 90 degrees, Keep original separations: No
 X: 40.5 Y: 19
 X: 40.5 Y: 22.5
 X: 39.9545 Y: 22.5
@@ -5049,7 +5049,7 @@ X: 41 Y: 18
 X: 34 Y: 18
 X: 34 Y: 18.5
 X: 40.5 Y: 18.5
-Separation 1: 1, Separation 2: 1, Angle: 45 degrees, Keep original separations: Yes
+Separation 1: 0.5, Separation 2: 0.5, Angle: -75 degrees, Keep original separations: Yes
 X: 16.25 Y: 20.0741
 X: 16.4712 Y: 21.1802
 X: 16.25 Y: 22.0059
@@ -5553,7 +5553,7 @@ X: 19.7499 Y: 44.8963
 X: 19.7499 Y: 44.1891
 X: 15.75 Y: 48.1892
 X: 15.7499 Y: 17.5737
-Separation 1: 1, Separation 2: 1, Angle: 45 degrees, Keep original separations: No
+Separation 1: 0.5, Separation 2: 0.5, Angle: -75 degrees, Keep original separations: Yes
 X: 35 Y: 18.5
 X: 35.5176 Y: 18.5
 X: 35 Y: 20.4317
@@ -5590,7 +5590,7 @@ X: 40.9999 Y: 22.9999
 X: 40.9999 Y: 22.4999
 X: 34.5 Y: 22.4999
 X: 34.4999 Y: 18.5
-Separation 1: 1, Separation 2: 1, Angle: 75 degrees, Keep original separations: Yes
+Separation 1: 0.5, Separation 2: 0.5, Angle: -75 degrees, Keep original separations: No
 X: 16.25 Y: 20.0741
 X: 16.4864 Y: 21.2564
 X: 16.25 Y: 22.1388
@@ -6076,7 +6076,7 @@ X: 19.7499 Y: 44.8963
 X: 19.7499 Y: 44.1891
 X: 15.75 Y: 48.1892
 X: 15.7499 Y: 17.5737
-Separation 1: 1, Separation 2: 1, Angle: 75 degrees, Keep original separations: No
+Separation 1: 0.5, Separation 2: 0.5, Angle: -75 degrees, Keep original separations: No
 X: 35 Y: 18.5
 X: 35.5852 Y: 18.5
 X: 35 Y: 20.684
@@ -6108,7 +6108,7 @@ X: 40.9999 Y: 22.9999
 X: 40.9999 Y: 22.4999
 X: 34.5 Y: 22.4999
 X: 34.4999 Y: 18.5
-Separation 1: 1, Separation 2: 1, Angle: 90 degrees, Keep original separations: Yes
+Separation 1: 0.5, Separation 2: 0.5, Angle: -45 degrees, Keep original separations: Yes
 X: 16.25 Y: 20.0744
 X: 16.3679 Y: 20.6636
 X: 16.25 Y: 20.7815
@@ -6687,7 +6687,7 @@ X: 16.1035 Y: 49.2499
 X: 15.7499 Y: 49.2499
 X: 15.75 Y: 48.8962
 X: 15.75 Y: 17.574
-Separation 1: 1, Separation 2: 1, Angle: 90 degrees, Keep original separations: No
+Separation 1: 0.5, Separation 2: 0.5, Angle: -45 degrees, Keep original separations: Yes
 X: 35 Y: 18.5001
 X: 35.7071 Y: 18.5001
 X: 35 Y: 19.2072
@@ -6722,7 +6722,7 @@ X: 40.9999 Y: 22.9999
 X: 40.9999 Y: 22.4999
 X: 34.4999 Y: 22.4999
 X: 34.4999 Y: 18.5001
-Separation 1: 1, Separation 2: 1, Angle: -75 degrees, Keep original separations: Yes
+Separation 1: 0.5, Separation 2: 0.5, Angle: -45 degrees, Keep original separations: No
 X: 16.25 Y: 20.0744
 X: 16.3681 Y: 20.6644
 X: 16.25 Y: 20.7825
@@ -7295,7 +7295,7 @@ X: 16.1035 Y: 49.2499
 X: 15.7499 Y: 49.2499
 X: 15.75 Y: 48.8962
 X: 15.75 Y: 17.574
-Separation 1: 1, Separation 2: 1, Angle: -75 degrees, Keep original separations: No
+Separation 1: 0.5, Separation 2: 0.5, Angle: -45 degrees, Keep original separations: No
 X: 35 Y: 18.5001
 X: 35.8181 Y: 18.5001
 X: 35 Y: 19.3182
@@ -7327,7 +7327,7 @@ X: 40.9999 Y: 22.9999
 X: 40.9999 Y: 22.4999
 X: 34.4999 Y: 22.4999
 X: 34.4999 Y: 18.5001
-Separation 1: 1, Separation 2: 1, Angle: -45 degrees, Keep original separations: Yes
+Separation 1: 0.5, Separation 2: 0.5, Angle: -25 degrees, Keep original separations: Yes
 X: 16.2501 Y: 20.0746
 X: 16.351 Y: 20.5792
 X: 16.25 Y: 20.6263
@@ -7909,7 +7909,7 @@ X: 16.1036 Y: 49.2498
 X: 15.7499 Y: 49.2498
 X: 15.75 Y: 48.8963
 X: 15.75 Y: 17.5742
-Separation 1: 1, Separation 2: 1, Angle: -45 degrees, Keep original separations: No
+Separation 1: 0.5, Separation 2: 0.5, Angle: -25 degrees, Keep original separations: Yes
 X: 35 Y: 18.4999
 X: 36.183 Y: 18.4999
 X: 35 Y: 19.0516
@@ -7941,7 +7941,7 @@ X: 40.9999 Y: 22.9999
 X: 40.9999 Y: 22.4999
 X: 34.4999 Y: 22.4999
 X: 34.5 Y: 18.4999
-Separation 1: 1, Separation 2: 1, Angle: -25 degrees, Keep original separations: Yes
+Separation 1: 0.5, Separation 2: 0.5, Angle: -25 degrees, Keep original separations: No
 X: 16.2501 Y: 20.0746
 X: 16.3532 Y: 20.5901
 X: 16.2501 Y: 20.6382
@@ -8508,7 +8508,7 @@ X: 16.1036 Y: 49.2498
 X: 15.7499 Y: 49.2498
 X: 15.75 Y: 48.8963
 X: 15.75 Y: 17.5742
-Separation 1: 1, Separation 2: 1, Angle: -25 degrees, Keep original separations: No
+Separation 1: 0.5, Separation 2: 0.5, Angle: -25 degrees, Keep original separations: No
 X: 35 Y: 18.4999
 X: 36.445 Y: 18.4999
 X: 35 Y: 19.1737
@@ -8536,7 +8536,7 @@ X: 40.9999 Y: 22.9999
 X: 40.9999 Y: 22.4999
 X: 34.4999 Y: 22.4999
 X: 34.5 Y: 18.4999
-Separation 1: 0.7, Separation 2: 0.3, Angle: 0 degrees, Keep original separations: Yes
+Separation 1: 1, Separation 2: 1, Angle: 0 degrees, Keep original separations: Yes
 X: 17.5 Y: 30.1487
 X: 17.7 Y: 31.1487
 X: 17.5 Y: 31.1487
@@ -8739,7 +8739,7 @@ X: 20.2072 Y: 45.5
 X: 17.2072 Y: 48.5
 X: 16.5 Y: 48.5
 X: 16.5 Y: 25.1487
-Separation 1: 0.7, Separation 2: 0.3, Angle: 0 degrees, Keep original separations: No
+Separation 1: 1, Separation 2: 1, Angle: 0 degrees, Keep original separations: Yes
 X: 36 Y: 19
 X: 40 Y: 19
 X: 40 Y: 20
@@ -8755,7 +8755,7 @@ X: 34 Y: 18
 X: 34 Y: 23
 X: 35 Y: 23
 X: 35 Y: 19
-Separation 1: 0.7, Separation 2: 0.3, Angle: 25 degrees, Keep original separations: Yes
+Separation 1: 1, Separation 2: 1, Angle: 0 degrees, Keep original separations: No
 X: 17.5 Y: 30.1487
 X: 17.7031 Y: 31.164
 X: 17.5 Y: 31.164
@@ -8948,7 +8948,7 @@ X: 20.2072 Y: 45.5
 X: 17.2072 Y: 48.5
 X: 16.5 Y: 48.5
 X: 16.5 Y: 25.1487
-Separation 1: 0.7, Separation 2: 0.3, Angle: 25 degrees, Keep original separations: No
+Separation 1: 1, Separation 2: 1, Angle: 0 degrees, Keep original separations: No
 X: 36 Y: 19
 X: 40 Y: 19
 X: 40 Y: 20
@@ -8964,7 +8964,7 @@ X: 34 Y: 18
 X: 34 Y: 23
 X: 35 Y: 23
 X: 35 Y: 19
-Separation 1: 0.7, Separation 2: 0.3, Angle: 45 degrees, Keep original separations: Yes
+Separation 1: 1, Separation 2: 1, Angle: 25 degrees, Keep original separations: Yes
 X: 17.5 Y: 30.1485
 X: 17.7433 Y: 31.3653
 X: 17.4999 Y: 31.2518
@@ -9188,7 +9188,7 @@ X: 17.2072 Y: 48.4999
 X: 16.5 Y: 48.4999
 X: 16.5 Y: 47.7927
 X: 16.4999 Y: 25.1483
-Separation 1: 0.7, Separation 2: 0.3, Angle: 45 degrees, Keep original separations: No
+Separation 1: 1, Separation 2: 1, Angle: 25 degrees, Keep original separations: Yes
 X: 39.9999 Y: 19.9999
 X: 39.9999 Y: 21.1033
 X: 37.6337 Y: 19.9999
@@ -9205,7 +9205,7 @@ X: 33.9999 Y: 22.9999
 X: 34.9999 Y: 22.9999
 X: 34.9998 Y: 18.9999
 X: 39.9999 Y: 18.9999
-Separation 1: 0.7, Separation 2: 0.3, Angle: 75 degrees, Keep original separations: Yes
+Separation 1: 1, Separation 2: 1, Angle: 25 degrees, Keep original separations: No
 X: 17.5 Y: 30.1485
 X: 17.7583 Y: 31.4405
 X: 17.4999 Y: 31.32
@@ -9418,7 +9418,7 @@ X: 17.2072 Y: 48.4999
 X: 16.5 Y: 48.4999
 X: 16.5 Y: 47.7927
 X: 16.4999 Y: 25.1483
-Separation 1: 0.7, Separation 2: 0.3, Angle: 75 degrees, Keep original separations: No
+Separation 1: 1, Separation 2: 1, Angle: 25 degrees, Keep original separations: No
 X: 39.9999 Y: 19.9999
 X: 40 Y: 21.2883
 X: 37.2369 Y: 19.9999
@@ -9434,7 +9434,7 @@ X: 33.9999 Y: 22.9999
 X: 34.9999 Y: 22.9999
 X: 34.9998 Y: 18.9999
 X: 39.9999 Y: 18.9999
-Separation 1: 0.7, Separation 2: 0.3, Angle: 90 degrees, Keep original separations: Yes
+Separation 1: 1, Separation 2: 1, Angle: 45 degrees, Keep original separations: Yes
 X: 17.4999 Y: 30.1484
 X: 17.8534 Y: 31.9162
 X: 17.4999 Y: 31.5627
@@ -9655,7 +9655,7 @@ X: 17.2072 Y: 48.4999
 X: 16.4999 Y: 48.4999
 X: 16.4999 Y: 47.7927
 X: 16.4998 Y: 25.1483
-Separation 1: 0.7, Separation 2: 0.3, Angle: 90 degrees, Keep original separations: No
+Separation 1: 1, Separation 2: 1, Angle: 45 degrees, Keep original separations: Yes
 X: 39.9999 Y: 20
 X: 39.9999 Y: 21.4142
 X: 38.5857 Y: 20
@@ -9674,7 +9674,7 @@ X: 33.9998 Y: 22.9999
 X: 34.9998 Y: 22.9999
 X: 34.9999 Y: 18.9999
 X: 39.9999 Y: 19
-Separation 1: 0.7, Separation 2: 0.3, Angle: -75 degrees, Keep original separations: Yes
+Separation 1: 1, Separation 2: 1, Angle: 45 degrees, Keep original separations: No
 X: 17.4999 Y: 30.1484
 X: 17.9229 Y: 32.2637
 X: 17.4999 Y: 31.8407
@@ -9881,7 +9881,7 @@ X: 17.2072 Y: 48.4999
 X: 16.4999 Y: 48.4999
 X: 16.4999 Y: 47.7927
 X: 16.4998 Y: 25.1483
-Separation 1: 0.7, Separation 2: 0.3, Angle: -75 degrees, Keep original separations: No
+Separation 1: 1, Separation 2: 1, Angle: 45 degrees, Keep original separations: No
 X: 39.9999 Y: 20
 X: 39.9999 Y: 22
 X: 37.9999 Y: 20
@@ -9896,7 +9896,7 @@ X: 33.9998 Y: 22.9999
 X: 34.9998 Y: 22.9999
 X: 34.9999 Y: 18.9999
 X: 39.9999 Y: 19
-Separation 1: 0.7, Separation 2: 0.3, Angle: -45 degrees, Keep original separations: Yes
+Separation 1: 1, Separation 2: 1, Angle: 75 degrees, Keep original separations: Yes
 X: 17.4998 Y: 30.148
 X: 18.5 Y: 35.1486
 X: 18.5 Y: 37.7442
@@ -10091,7 +10091,7 @@ X: 20.2071 Y: 45.4999
 X: 17.2071 Y: 48.4999
 X: 16.4999 Y: 48.4999
 X: 16.4999 Y: 25.148
-Separation 1: 0.7, Separation 2: 0.3, Angle: -45 degrees, Keep original separations: No
+Separation 1: 1, Separation 2: 1, Angle: 75 degrees, Keep original separations: Yes
 X: 40 Y: 19.9999
 X: 39.9999 Y: 21.9999
 X: 39.5006 Y: 22
@@ -10112,7 +10112,7 @@ X: 33.9999 Y: 22.9999
 X: 34.9999 Y: 22.9999
 X: 34.9999 Y: 18.9999
 X: 40 Y: 18.9999
-Separation 1: 0.7, Separation 2: 0.3, Angle: -25 degrees, Keep original separations: Yes
+Separation 1: 1, Separation 2: 1, Angle: 75 degrees, Keep original separations: No
 X: 17.4998 Y: 30.148
 X: 18.5 Y: 35.1486
 X: 18.4999 Y: 38.9573
@@ -10293,7 +10293,7 @@ X: 20.2071 Y: 45.4999
 X: 17.2071 Y: 48.4999
 X: 16.4999 Y: 48.4999
 X: 16.4999 Y: 25.148
-Separation 1: 0.7, Separation 2: 0.3, Angle: -25 degrees, Keep original separations: No
+Separation 1: 1, Separation 2: 1, Angle: 75 degrees, Keep original separations: No
 X: 40 Y: 19.9999
 X: 39.9999 Y: 21.9999
 X: 39.0239 Y: 21.9999
@@ -10309,7 +10309,7 @@ X: 33.9999 Y: 22.9999
 X: 34.9999 Y: 22.9999
 X: 34.9999 Y: 18.9999
 X: 40 Y: 18.9999
-Separation 1: 0.5, Separation 2: 0.5, Angle: 0 degrees, Keep original separations: Yes
+Separation 1: 1, Separation 2: 1, Angle: 90 degrees, Keep original separations: Yes
 X: 18.4999 Y: 40.2478
 X: 18.4999 Y: 44.3786
 X: 17.4999 Y: 45.3786
@@ -10492,7 +10492,7 @@ X: 18.4999 Y: 30.0496
 X: 15.5 Y: 15.0496
 X: 15.4999 Y: 20.1487
 X: 18.4999 Y: 35.1487
-Separation 1: 0.5, Separation 2: 0.5, Angle: 0 degrees, Keep original separations: No
+Separation 1: 1, Separation 2: 1, Angle: 90 degrees, Keep original separations: Yes
 X: 40 Y: 20
 X: 40 Y: 22
 X: 39 Y: 22
@@ -10512,7 +10512,7 @@ X: 41 Y: 18
 X: 34 Y: 18
 X: 34 Y: 19
 X: 40 Y: 19
-Separation 1: 0.5, Separation 2: 0.5, Angle: 25 degrees, Keep original separations: Yes
+Separation 1: 1, Separation 2: 1, Angle: 90 degrees, Keep original separations: No
 X: 18.4999 Y: 40.2478
 X: 18.4999 Y: 44.3786
 X: 17.4999 Y: 45.3786
@@ -10691,7 +10691,7 @@ X: 18.4999 Y: 30.0496
 X: 15.5 Y: 15.0496
 X: 15.4999 Y: 20.1487
 X: 18.4999 Y: 35.1487
-Separation 1: 0.5, Separation 2: 0.5, Angle: 25 degrees, Keep original separations: No
+Separation 1: 1, Separation 2: 1, Angle: 90 degrees, Keep original separations: No
 X: 40 Y: 20
 X: 40 Y: 22
 X: 39 Y: 22
@@ -10711,7 +10711,7 @@ X: 41 Y: 18
 X: 34 Y: 18
 X: 34 Y: 19
 X: 40 Y: 19
-Separation 1: 0.5, Separation 2: 0.5, Angle: 45 degrees, Keep original separations: Yes
+Separation 1: 1, Separation 2: 1, Angle: -75 degrees, Keep original separations: Yes
 X: 17.4998 Y: 30.1479
 X: 17.9422 Y: 32.3603
 X: 17.4998 Y: 34.0116
@@ -10933,7 +10933,7 @@ X: 19.4999 Y: 44.7927
 X: 19.4999 Y: 43.3784
 X: 16.4999 Y: 46.3786
 X: 16.4998 Y: 25.1481
-Separation 1: 0.5, Separation 2: 0.5, Angle: 45 degrees, Keep original separations: No
+Separation 1: 1, Separation 2: 1, Angle: -75 degrees, Keep original separations: Yes
 X: 35.9999 Y: 18.9999
 X: 37.0352 Y: 18.9999
 X: 36.4992 Y: 21
@@ -10952,7 +10952,7 @@ X: 40.9999 Y: 22.9999
 X: 40.9999 Y: 21.9999
 X: 34.9999 Y: 21.9999
 X: 34.9999 Y: 18.9999
-Separation 1: 0.5, Separation 2: 0.5, Angle: 75 degrees, Keep original separations: Yes
+Separation 1: 1, Separation 2: 1, Angle: -75 degrees, Keep original separations: No
 X: 17.4998 Y: 30.1479
 X: 18.1315 Y: 33.3065
 X: 17.4998 Y: 35.6641
@@ -11152,7 +11152,7 @@ X: 19.4999 Y: 44.7927
 X: 19.4999 Y: 43.3784
 X: 16.4999 Y: 46.3786
 X: 16.4998 Y: 25.1481
-Separation 1: 0.5, Separation 2: 0.5, Angle: 75 degrees, Keep original separations: No
+Separation 1: 1, Separation 2: 1, Angle: -75 degrees, Keep original separations: No
 X: 35.9999 Y: 18.9999
 X: 37.5119 Y: 18.9999
 X: 36.976 Y: 21
@@ -11168,7 +11168,7 @@ X: 40.9999 Y: 22.9999
 X: 40.9999 Y: 21.9999
 X: 34.9999 Y: 21.9999
 X: 34.9999 Y: 18.9999
-Separation 1: 0.5, Separation 2: 0.5, Angle: 90 degrees, Keep original separations: Yes
+Separation 1: 1, Separation 2: 1, Angle: -45 degrees, Keep original separations: Yes
 X: 17.4999 Y: 30.1487
 X: 17.7356 Y: 31.3272
 X: 17.4999 Y: 31.5629
@@ -11419,7 +11419,7 @@ X: 20.2072 Y: 45.4999
 X: 17.2072 Y: 48.4999
 X: 16.4999 Y: 48.4999
 X: 16.4999 Y: 25.1483
-Separation 1: 0.5, Separation 2: 0.5, Angle: 90 degrees, Keep original separations: No
+Separation 1: 1, Separation 2: 1, Angle: -45 degrees, Keep original separations: Yes
 X: 35.9999 Y: 18.9999
 X: 37.4141 Y: 18.9999
 X: 35.9998 Y: 20.4142
@@ -11440,7 +11440,7 @@ X: 40.9999 Y: 22.9999
 X: 40.9999 Y: 22
 X: 34.9998 Y: 22
 X: 34.9999 Y: 18.9999
-Separation 1: 0.5, Separation 2: 0.5, Angle: -75 degrees, Keep original separations: Yes
+Separation 1: 1, Separation 2: 1, Angle: -45 degrees, Keep original separations: No
 X: 17.4999 Y: 30.1487
 X: 17.782 Y: 31.5588
 X: 17.4999 Y: 31.8409
@@ -11677,7 +11677,7 @@ X: 20.2072 Y: 45.4999
 X: 17.2072 Y: 48.4999
 X: 16.4999 Y: 48.4999
 X: 16.4999 Y: 25.1483
-Separation 1: 0.5, Separation 2: 0.5, Angle: -75 degrees, Keep original separations: No
+Separation 1: 1, Separation 2: 1, Angle: -45 degrees, Keep original separations: No
 X: 35.9999 Y: 18.9999
 X: 37.9999 Y: 18.9999
 X: 35.9998 Y: 21
@@ -11692,7 +11692,7 @@ X: 40.9999 Y: 22.9999
 X: 40.9999 Y: 22
 X: 34.9998 Y: 22
 X: 34.9999 Y: 18.9999
-Separation 1: 0.5, Separation 2: 0.5, Angle: -45 degrees, Keep original separations: Yes
+Separation 1: 1, Separation 2: 1, Angle: -25 degrees, Keep original separations: Yes
 X: 17.5 Y: 30.1487
 X: 17.7018 Y: 31.158
 X: 17.5 Y: 31.2521
@@ -11936,7 +11936,7 @@ X: 17.2072 Y: 48.4998
 X: 16.4999 Y: 48.4998
 X: 16.4999 Y: 47.7927
 X: 16.5 Y: 25.1485
-Separation 1: 0.5, Separation 2: 0.5, Angle: -45 degrees, Keep original separations: No
+Separation 1: 1, Separation 2: 1, Angle: -25 degrees, Keep original separations: Yes
 X: 35.9999 Y: 18.9999
 X: 38.3661 Y: 18.9999
 X: 35.9999 Y: 20.1032
@@ -11953,7 +11953,7 @@ X: 40.9999 Y: 22.9999
 X: 40.9999 Y: 21.9999
 X: 34.9999 Y: 22
 X: 34.9999 Y: 18.9999
-Separation 1: 0.5, Separation 2: 0.5, Angle: -25 degrees, Keep original separations: Yes
+Separation 1: 1, Separation 2: 1, Angle: -25 degrees, Keep original separations: No
 X: 17.5 Y: 30.1487
 X: 17.7143 Y: 31.2204
 X: 17.5 Y: 31.3203
@@ -12182,7 +12182,7 @@ X: 17.2072 Y: 48.4998
 X: 16.4999 Y: 48.4998
 X: 16.4999 Y: 47.7927
 X: 16.5 Y: 25.1485
-Separation 1: 0.5, Separation 2: 0.5, Angle: -25 degrees, Keep original separations: No
+Separation 1: 1, Separation 2: 1, Angle: -25 degrees, Keep original separations: No
 X: 35.9999 Y: 18.9999
 X: 38.7629 Y: 18.9999
 X: 35.9999 Y: 20.2883
@@ -12198,7 +12198,7 @@ X: 40.9999 Y: 22.9999
 X: 40.9999 Y: 21.9999
 X: 34.9999 Y: 22
 X: 34.9999 Y: 18.9999
-Separation 1: 1, Separation 2: 1, Angle: 0 degrees, Keep original separations: Yes
+Separation 1: 0.7, Separation 2: 0.3, Angle: 0 degrees, Keep original separations: Yes
 X: 15.75 Y: 16.0447
 X: 15.89 Y: 16.7447
 X: 15.75 Y: 16.7447
@@ -12736,7 +12736,7 @@ X: 20.0622 Y: 45.15
 X: 15.6622 Y: 49.55
 X: 15.45 Y: 49.55
 X: 15.45 Y: 14.5447
-Separation 1: 1, Separation 2: 1, Angle: 0 degrees, Keep original separations: No
+Separation 1: 0.7, Separation 2: 0.3, Angle: 0 degrees, Keep original separations: Yes
 X: 34.6 Y: 18.3
 X: 40.7 Y: 18.3
 X: 40.7 Y: 19
@@ -12762,7 +12762,7 @@ X: 34 Y: 18
 X: 34 Y: 23
 X: 34.3 Y: 23
 X: 34.3 Y: 18.3
-Separation 1: 1, Separation 2: 1, Angle: 25 degrees, Keep original separations: Yes
+Separation 1: 0.7, Separation 2: 0.3, Angle: 0 degrees, Keep original separations: No
 X: 15.75 Y: 16.0447
 X: 15.8957 Y: 16.7731
 X: 15.75 Y: 16.7731
@@ -13286,7 +13286,7 @@ X: 20.0622 Y: 45.15
 X: 15.6622 Y: 49.55
 X: 15.45 Y: 49.55
 X: 15.45 Y: 14.5447
-Separation 1: 1, Separation 2: 1, Angle: 25 degrees, Keep original separations: No
+Separation 1: 0.7, Separation 2: 0.3, Angle: 0 degrees, Keep original separations: No
 X: 34.6 Y: 18.3
 X: 40.7 Y: 18.3
 X: 40.7 Y: 19.1324
@@ -13310,7 +13310,7 @@ X: 34 Y: 18
 X: 34 Y: 23
 X: 34.3 Y: 23
 X: 34.3 Y: 18.3
-Separation 1: 1, Separation 2: 1, Angle: 45 degrees, Keep original separations: Yes
+Separation 1: 0.7, Separation 2: 0.3, Angle: 25 degrees, Keep original separations: Yes
 X: 15.75 Y: 16.0443
 X: 15.9203 Y: 16.8961
 X: 15.7499 Y: 16.8167
@@ -13891,7 +13891,7 @@ X: 15.6622 Y: 49.5499
 X: 15.4499 Y: 49.5499
 X: 15.45 Y: 49.3377
 X: 15.4499 Y: 14.5442
-Separation 1: 1, Separation 2: 1, Angle: 45 degrees, Keep original separations: No
+Separation 1: 0.7, Separation 2: 0.3, Angle: 25 degrees, Keep original separations: Yes
 X: 40.6999 Y: 18.6
 X: 40.6999 Y: 19.3723
 X: 39.0435 Y: 18.6
@@ -13926,7 +13926,7 @@ X: 33.9999 Y: 22.9999
 X: 34.2999 Y: 22.9999
 X: 34.2999 Y: 18.2999
 X: 40.6999 Y: 18.3
-Separation 1: 1, Separation 2: 1, Angle: 75 degrees, Keep original separations: Yes
+Separation 1: 0.7, Separation 2: 0.3, Angle: 25 degrees, Keep original separations: No
 X: 15.75 Y: 16.0443
 X: 15.9276 Y: 16.9328
 X: 15.75 Y: 16.8499
@@ -14481,7 +14481,7 @@ X: 15.6622 Y: 49.5499
 X: 15.4499 Y: 49.5499
 X: 15.45 Y: 49.3377
 X: 15.4499 Y: 14.5442
-Separation 1: 1, Separation 2: 1, Angle: 75 degrees, Keep original separations: No
+Separation 1: 0.7, Separation 2: 0.3, Angle: 25 degrees, Keep original separations: No
 X: 40.6999 Y: 18.6
 X: 40.6999 Y: 19.5171
 X: 38.733 Y: 18.5999
@@ -14513,7 +14513,7 @@ X: 33.9999 Y: 22.9999
 X: 34.2999 Y: 22.9999
 X: 34.2999 Y: 18.2999
 X: 40.6999 Y: 18.3
-Separation 1: 1, Separation 2: 1, Angle: 90 degrees, Keep original separations: Yes
+Separation 1: 0.7, Separation 2: 0.3, Angle: 45 degrees, Keep original separations: Yes
 X: 15.7498 Y: 16.044
 X: 15.9973 Y: 17.2814
 X: 15.7498 Y: 17.0339
@@ -15101,7 +15101,7 @@ X: 20.0621 Y: 45.1499
 X: 15.6621 Y: 49.5498
 X: 15.4499 Y: 49.5498
 X: 15.4499 Y: 14.5442
-Separation 1: 1, Separation 2: 1, Angle: 90 degrees, Keep original separations: No
+Separation 1: 0.7, Separation 2: 0.3, Angle: 45 degrees, Keep original separations: Yes
 X: 40.7 Y: 18.5999
 X: 40.7 Y: 19.5898
 X: 39.71 Y: 18.5999
@@ -15140,7 +15140,7 @@ X: 33.9998 Y: 22.9999
 X: 34.2998 Y: 22.9999
 X: 34.2999 Y: 18.2999
 X: 40.7 Y: 18.2999
-Separation 1: 1, Separation 2: 1, Angle: -75 degrees, Keep original separations: Yes
+Separation 1: 0.7, Separation 2: 0.3, Angle: 45 degrees, Keep original separations: No
 X: 15.7498 Y: 16.044
 X: 16.0054 Y: 17.3219
 X: 15.7498 Y: 17.0663
@@ -15706,7 +15706,7 @@ X: 20.0621 Y: 45.1499
 X: 15.6621 Y: 49.5498
 X: 15.4499 Y: 49.5498
 X: 15.4499 Y: 14.5442
-Separation 1: 1, Separation 2: 1, Angle: -75 degrees, Keep original separations: No
+Separation 1: 0.7, Separation 2: 0.3, Angle: 45 degrees, Keep original separations: No
 X: 40.7 Y: 18.5999
 X: 40.7 Y: 19.7333
 X: 39.5666 Y: 18.5999
@@ -15743,7 +15743,7 @@ X: 33.9998 Y: 22.9999
 X: 34.2998 Y: 22.9999
 X: 34.2999 Y: 18.2999
 X: 40.7 Y: 18.2999
-Separation 1: 1, Separation 2: 1, Angle: -45 degrees, Keep original separations: Yes
+Separation 1: 0.7, Separation 2: 0.3, Angle: 75 degrees, Keep original separations: Yes
 X: 15.75 Y: 16.0446
 X: 17.8829 Y: 26.7093
 X: 15.75 Y: 18.7491
@@ -16223,7 +16223,7 @@ X: 15.6621 Y: 49.5499
 X: 15.4499 Y: 49.5499
 X: 15.4499 Y: 49.3378
 X: 15.45 Y: 14.5444
-Separation 1: 1, Separation 2: 1, Angle: -45 degrees, Keep original separations: No
+Separation 1: 0.7, Separation 2: 0.3, Angle: 75 degrees, Keep original separations: Yes
 X: 40.7 Y: 18.5998
 X: 40.7 Y: 21.3043
 X: 39.9753 Y: 18.5998
@@ -16261,7 +16261,7 @@ X: 33.9999 Y: 22.9999
 X: 34.2999 Y: 22.9999
 X: 34.2999 Y: 18.2999
 X: 40.7 Y: 18.2998
-Separation 1: 1, Separation 2: 1, Angle: -25 degrees, Keep original separations: Yes
+Separation 1: 0.7, Separation 2: 0.3, Angle: 75 degrees, Keep original separations: No
 X: 15.75 Y: 16.0446
 X: 18.2129 Y: 28.3593
 X: 15.75 Y: 19.1676
@@ -16722,7 +16722,7 @@ X: 15.6621 Y: 49.5499
 X: 15.4499 Y: 49.5499
 X: 15.4499 Y: 49.3378
 X: 15.45 Y: 14.5444
-Separation 1: 1, Separation 2: 1, Angle: -25 degrees, Keep original separations: No
+Separation 1: 0.7, Separation 2: 0.3, Angle: 75 degrees, Keep original separations: No
 X: 40.7 Y: 18.5998
 X: 40.7 Y: 21.4067
 X: 39.9479 Y: 18.5998
@@ -16758,7 +16758,7 @@ X: 33.9999 Y: 22.9999
 X: 34.2999 Y: 22.9999
 X: 34.2999 Y: 18.2999
 X: 40.7 Y: 18.2998
-Separation 1: 0.7, Separation 2: 0.3, Angle: 0 degrees, Keep original separations: Yes
+Separation 1: 0.7, Separation 2: 0.3, Angle: 90 degrees, Keep original separations: Yes
 X: 19.5499 Y: 36.5745
 X: 19.5499 Y: 44.8136
 X: 18.8499 Y: 45.5136
@@ -17214,7 +17214,7 @@ X: 19.5499 Y: 33.5149
 X: 15.15 Y: 11.5149
 X: 15.15 Y: 13.0448
 X: 19.5499 Y: 35.0447
-Separation 1: 0.7, Separation 2: 0.3, Angle: 0 degrees, Keep original separations: No
+Separation 1: 0.7, Separation 2: 0.3, Angle: 90 degrees, Keep original separations: Yes
 X: 40.7 Y: 18.6
 X: 40.7 Y: 22.7
 X: 40 Y: 22.7
@@ -17248,7 +17248,7 @@ X: 41 Y: 18
 X: 34 Y: 18
 X: 34 Y: 18.3
 X: 40.7 Y: 18.3
-Separation 1: 0.7, Separation 2: 0.3, Angle: 25 degrees, Keep original separations: Yes
+Separation 1: 0.7, Separation 2: 0.3, Angle: 90 degrees, Keep original separations: No
 X: 19.5499 Y: 36.5745
 X: 19.5499 Y: 44.8136
 X: 18.7742 Y: 45.5893
@@ -17692,7 +17692,7 @@ X: 19.5499 Y: 33.5149
 X: 15.15 Y: 11.5149
 X: 15.15 Y: 13.0448
 X: 19.5499 Y: 35.0447
-Separation 1: 0.7, Separation 2: 0.3, Angle: 25 degrees, Keep original separations: No
+Separation 1: 0.7, Separation 2: 0.3, Angle: 90 degrees, Keep original separations: No
 X: 40.7 Y: 18.6
 X: 40.7 Y: 22.7
 X: 39.914 Y: 22.7
@@ -17724,7 +17724,7 @@ X: 41 Y: 18
 X: 34 Y: 18
 X: 34 Y: 18.3
 X: 40.7 Y: 18.3
-Separation 1: 0.7, Separation 2: 0.3, Angle: 45 degrees, Keep original separations: Yes
+Separation 1: 0.7, Separation 2: 0.3, Angle: -75 degrees, Keep original separations: Yes
 X: 15.7499 Y: 16.0443
 X: 16.0597 Y: 17.593
 X: 15.7499 Y: 18.749
@@ -18283,7 +18283,7 @@ X: 19.8499 Y: 44.9377
 X: 19.8499 Y: 44.5135
 X: 15.4498 Y: 48.9135
 X: 15.4499 Y: 14.5444
-Separation 1: 0.7, Separation 2: 0.3, Angle: 45 degrees, Keep original separations: No
+Separation 1: 0.7, Separation 2: 0.3, Angle: -75 degrees, Keep original separations: Yes
 X: 34.5999 Y: 18.3
 X: 35.3246 Y: 18.3
 X: 34.5999 Y: 21.0047
@@ -18320,7 +18320,7 @@ X: 40.9999 Y: 22.9999
 X: 40.9999 Y: 22.7
 X: 34.2999 Y: 22.6999
 X: 34.3 Y: 18.3
-Separation 1: 0.7, Separation 2: 0.3, Angle: 75 degrees, Keep original separations: Yes
+Separation 1: 0.7, Separation 2: 0.3, Angle: -75 degrees, Keep original separations: No
 X: 15.7499 Y: 16.0443
 X: 16.0809 Y: 17.6992
 X: 15.7499 Y: 18.9344
@@ -18861,7 +18861,7 @@ X: 19.8499 Y: 44.9377
 X: 19.8499 Y: 44.5135
 X: 15.4498 Y: 48.9135
 X: 15.4499 Y: 14.5444
-Separation 1: 0.7, Separation 2: 0.3, Angle: 75 degrees, Keep original separations: No
+Separation 1: 0.7, Separation 2: 0.3, Angle: -75 degrees, Keep original separations: No
 X: 34.5999 Y: 18.3
 X: 35.352 Y: 18.3
 X: 34.5999 Y: 21.1071
@@ -18897,7 +18897,7 @@ X: 40.9999 Y: 22.9999
 X: 40.9999 Y: 22.7
 X: 34.2999 Y: 22.6999
 X: 34.3 Y: 18.3
-Separation 1: 0.7, Separation 2: 0.3, Angle: 90 degrees, Keep original separations: Yes
+Separation 1: 0.7, Separation 2: 0.3, Angle: -45 degrees, Keep original separations: Yes
 X: 15.7498 Y: 16.044
 X: 15.9148 Y: 16.869
 X: 15.7498 Y: 17.0339
@@ -19539,7 +19539,7 @@ X: 20.0621 Y: 45.1499
 X: 15.6621 Y: 49.5498
 X: 15.4499 Y: 49.5498
 X: 15.4499 Y: 14.5442
-Separation 1: 0.7, Separation 2: 0.3, Angle: 90 degrees, Keep original separations: No
+Separation 1: 0.7, Separation 2: 0.3, Angle: -45 degrees, Keep original separations: Yes
 X: 34.5998 Y: 18.2999
 X: 35.5898 Y: 18.2999
 X: 34.5998 Y: 19.2898
@@ -19580,7 +19580,7 @@ X: 40.9999 Y: 22.9999
 X: 40.9999 Y: 22.7
 X: 34.2998 Y: 22.7
 X: 34.2999 Y: 18.2999
-Separation 1: 0.7, Separation 2: 0.3, Angle: -75 degrees, Keep original separations: Yes
+Separation 1: 0.7, Separation 2: 0.3, Angle: -45 degrees, Keep original separations: No
 X: 15.7498 Y: 16.044
 X: 15.9172 Y: 16.881
 X: 15.7498 Y: 17.0484
@@ -20204,7 +20204,7 @@ X: 20.0621 Y: 45.1499
 X: 15.6621 Y: 49.5498
 X: 15.4499 Y: 49.5498
 X: 15.4499 Y: 14.5442
-Separation 1: 0.7, Separation 2: 0.3, Angle: -75 degrees, Keep original separations: No
+Separation 1: 0.7, Separation 2: 0.3, Angle: -45 degrees, Keep original separations: No
 X: 34.5998 Y: 18.2999
 X: 35.7332 Y: 18.2999
 X: 34.5998 Y: 19.4332
@@ -20239,7 +20239,7 @@ X: 40.9999 Y: 22.9999
 X: 40.9999 Y: 22.7
 X: 34.2998 Y: 22.7
 X: 34.2999 Y: 18.2999
-Separation 1: 0.7, Separation 2: 0.3, Angle: -45 degrees, Keep original separations: Yes
+Separation 1: 0.7, Separation 2: 0.3, Angle: -25 degrees, Keep original separations: Yes
 X: 15.7499 Y: 16.0448
 X: 15.8913 Y: 16.7513
 X: 15.75 Y: 16.8171
@@ -20877,7 +20877,7 @@ X: 15.6621 Y: 49.5499
 X: 15.4499 Y: 49.5499
 X: 15.45 Y: 49.3376
 X: 15.4499 Y: 14.5446
-Separation 1: 0.7, Separation 2: 0.3, Angle: -45 degrees, Keep original separations: No
+Separation 1: 0.7, Separation 2: 0.3, Angle: -25 degrees, Keep original separations: Yes
 X: 34.5999 Y: 18.2999
 X: 36.2563 Y: 18.2999
 X: 34.5999 Y: 19.0723
@@ -20914,7 +20914,7 @@ X: 40.9999 Y: 22.9999
 X: 41 Y: 22.6999
 X: 34.2999 Y: 22.7
 X: 34.2999 Y: 18.2999
-Separation 1: 0.7, Separation 2: 0.3, Angle: -25 degrees, Keep original separations: Yes
+Separation 1: 0.7, Separation 2: 0.3, Angle: -25 degrees, Keep original separations: No
 X: 15.7499 Y: 16.0448
 X: 15.8974 Y: 16.7816
 X: 15.75 Y: 16.8503
