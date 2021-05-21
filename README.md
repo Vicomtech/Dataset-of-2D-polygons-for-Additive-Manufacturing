@@ -6,7 +6,7 @@ If you use any of the provided material in your work, please cite us as follows:
 * **Polygons:** the folder contains 2 folders with the coordinates of 34 2D polygons (15 convex and 19 non-convex) in *.json* files.
 	* **Convex polygons:** Folder containing the *.json* files with the coordinates of 15 convex polygons.
 	* **Non-convex polygons:** Folder containing the *.json* files with the coordinates of 19 non-convex polygons.
-	The structure of each *.json* file is as follows:
+The structure of each *.json* file is as follows:
 	```
 	[{"boundary":
    [[X1, Y1],
@@ -37,7 +37,7 @@ If you use any of the provided material in your work, please cite us as follows:
 
 * **Infill paths:** the folder contains 34 *.txt. files with the coordinates of the infill paths generated for each of the polygons of this repository. The structure of each *.txt* file is the following:
 	```
-	Separation 1: float(sep1), Separation 2: float(sep2), Angle: float(angle), Keep original separations: Yes/No
+	Separation 1: S1, Separation 2: S2, Angle: A, Keep original separations: Yes/No
 	X: X1 Y: Y1
 	X: X2 Y: Y2
 	X: X3 Y: Y3
@@ -49,7 +49,7 @@ If you use any of the provided material in your work, please cite us as follows:
 	.
 	.
 	X: Xn Y: Yn
-	Separation 1: float(sep1'), Separation 2: float(sep2'), Angle: float(angle'), Keep original separations: Yes/No
+	Separation 1: S1', Separation 2: S2', Angle: A', Keep original separations: Yes/No
 	X: X1' Y: Y1'
 	X: X2' Y: Y2'
 	X: X3' Y: Y3'
@@ -65,3 +65,4 @@ If you use any of the provided material in your work, please cite us as follows:
 	.
 	.
 	```
+If Keep original separations is Yes, the chosen separations remain fix, while if it is No, the separations have been automatically adjusted to ensure that all the convex (sub)polygon is completely filled.
