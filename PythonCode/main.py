@@ -23,7 +23,7 @@ if __name__ == "__main__":
     else:
         indices = [int(sys.argv[3])]
     if any(i < 0 or i >= len(infills) for i in indices):
-        sys.exit("Index out of range, the index must go from 0 to " + str(len(infills)))
+        sys.exit("Index out of range, the index must go from 0 to " + str(len(infills) - 1))
 
     for i in indices:
         plotPolygon(polygon)

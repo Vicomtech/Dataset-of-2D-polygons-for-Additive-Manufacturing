@@ -43,4 +43,10 @@ def loadInfillTxt(txtFile):
 
             infill.append([float(x), float(y)])
 
+    if (len(infill) > 0):
+        infills.append(infill)
+    if len(PARAMETERS) > 0:
+        if parameters != PARAMETERS[len(PARAMETERS) - 1]:
+            INFILLS.append(infills)
+
     return INFILLS
