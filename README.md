@@ -69,12 +69,15 @@ If you use any of the provided material in your work, please cite us as follows:
 		.
 	```
 	If Keep original separations is *Yes*, the chosen separations remain fix, while if it is *No*, the separations were automatically adjusted to ensure that all the convex (sub)polygon was completely filled.
+
 * **PythonCode:** the folder contains 5 *.py* files to plot the polygons and the generated infills.
 	* *loadPolygon.py:* this file has the functions needed to load the polygon and split it into polygons of maximum depth 2.
 	* *loadTxt.py:* this file has the functions needed to load the infills generated for a polygon.
 	* *plotPolygon.py:* this file has the functions needed to plot the polygon.
 	* *plotInfill.py:* this file has the functions needed to plot the infill generated for a polygon. The function `plotInfill` shows the final infill completely at once. The function `plotInfillSegment2Segment` shows the segments of the infill in the order the printer would print.
 	* *main.py:* this file plots a polygon and all the infills generated for it. By default `plotInfill` function is executed, but one can easily execute `plotInfillSegment2Segment` by uncommenting the line in which is called.
+
+* **PolygonsAppearanceAndRelevance:** *.pdf* file that contains a picture of each polygon, a picture of a possible infill for each polygon and a brief sentence explaining why the polygon is relevant for the work.
 
 ## Polygon visualization
 The code to visualize the polygons and their infills is to be executed in Python3. The input arguments should be:
