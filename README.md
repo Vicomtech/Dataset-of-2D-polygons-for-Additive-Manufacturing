@@ -73,8 +73,8 @@ If you use any of the provided material in your work, please cite us as follows:
 	* *loadPolygon.py:* this file has the functions needed to load the polygon and split it into polygons of maximum depth 2.
 	* *loadTxt.py:* this file has the functions needed to load the infills generated for a polygon.
 	* *plotPolygon.py:* this file has the functions needed to plot the polygon.
-	* *plotInfill.py:* this file has the functions needed to plot the infill generated for a polygon.
-	* *main.py:* this file plots a polygon and all the infills generated for it.
+	* *plotInfill.py:* this file has the functions needed to plot the infill generated for a polygon. The function `plotInfill` shows the final infill completely at once. The function `plotInfillSegment2Segment` shows the segments of the infill in the order the printer would print.
+	* *main.py:* this file plots a polygon and all the infills generated for it. By default `plotInfill` function is executed, but one can easily execute `plotInfillSegment2Segment` by uncommenting the line in which is called.
 
 ## Polygon visualization
 The code to visualize the polygons and their infills is to be executed in Python3. The input arguments should be:

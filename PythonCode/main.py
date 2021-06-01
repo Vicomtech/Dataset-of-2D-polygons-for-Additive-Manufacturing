@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 from plotInfill import plotInfill
+from plotInfill import plotInfillSegment2Segment
 from plotPolygon import plotPolygon
 from loadPolygon import loadPolygon
 from loadTxt import loadInfillTxt
@@ -27,5 +28,10 @@ if __name__ == "__main__":
 
     for i in indices:
         plotPolygon(polygon)
+
+        # Plot the final path
         plotInfill(infills[i])
+
+        # Plot the final path segment by segment
+        # plotInfillSegment2Segment(infills[i])
         plt.show()
