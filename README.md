@@ -1,12 +1,12 @@
 # Dataset of 2D polygons for Additive Manufacturing
-The following repository is linked to the article entitled: "Generation of continuous hybrid zig-zag and contour paths for 3D printing". As described in the article, the repository contains a dataset of 15 convex polygons and 19 non-convex polygons in order to validate the methods described in the article.
+The following repository is linked to the article entitled: "Generation of continuous hybrid zig-zag and contour paths for 3D printing". As described in the article, the repository contains a dataset of 15 convex polygons and 20 non-convex polygons in order to validate the methods described in the article.
 If you use any of the provided material in your work, please cite us as follows:
 
 ## Repository structure
-* **Polygons:** the folder contains 2 folders with the coordinates of 34 2D polygons (15 convex and 19 non-convex) in *.json* files.
+* **Polygons:** the folder contains 2 folders with the coordinates of 35 2D polygons (15 convex and 20 non-convex) in *.json* files.
 	* **ConvexPolygons:** Folder containing the *.json* files with the coordinates of 15 convex polygons.
-	* **NonConvexPolygons:** Folder containing the *.json* files with the coordinates of 19 non-convex polygons.  
-	The structure of each *.json* file is as follows:
+	* **NonConvexPolygons:** Folder containing the *.json* files with the coordinates of 20 non-convex polygons.  
+The structure of each *.json* file is as follows:
 	```
 	[{"boundary":
    [[X1, Y1],
@@ -25,50 +25,50 @@ If you use any of the provided material in your work, please cite us as follows:
       [[x1, y1],
        [x2, y2],
        [x3, y3],
-		   .
-		   .
-		   .
+	      .
+	      .
+	      .
        [xi, yi],
-		   .
-		   .
-		   .
+	      .
+	      .
+	      .
 	   [xn, yn]}]}]
 	```
 
 * **InfillPaths:** the folder contains 2 folders with some possible infills for each polygon.  
 	* **ConvexPolygons:** Folder containing the *.txt* files with the infills of 15 convex polygons. 
-	* **NonConvexPolygons:** Folder containing the *.txt* files with the infills of 19 non-convex polygons.  
-	Each *.txt* file contains 48 infills for a polygon varying lines separation and orientation. The structure of the *.txt* is as follows:
+	* **NonConvexPolygons:** Folder containing the *.txt* files with the infills of 20 non-convex polygons.  
+	Each *.txt* file contains 48 infills for a polygon varying lines separation and orientation, except *NCPolygon20.txt* which only has one infill. The structure of the *.txt* files is as follows:
 	```
 	Separation 1: S1, Separation 2: S2, Angle: A, Keep original separations: Yes/No
 	X: X1 Y: Y1
 	X: X2 Y: Y2
 	X: X3 Y: Y3
-		.
-		.
-		.
+	     .
+	     .
+	     .
 	X: Xi Y: Yi
-		.
-		.
-		.
+	     .
+	     .
+	     .
 	X: Xn Y: Yn
 	Separation 1: S1', Separation 2: S2', Angle: A', Keep original separations: Yes/No
 	X: X1' Y: Y1'
 	X: X2' Y: Y2'
 	X: X3' Y: Y3'
-		.
-		.
-		.
+	      .
+	      .
+	      .
 	X: Xi' Y: Yi'
-		.
-		.
-		.
+	      .
+	      .
+	      .
 	X: Xn' Y: Yn'
-		.
-		.
-		.
+	      .
+	      .
+	      .
 	```
-	If Keep original separations is *Yes*, the chosen separations remain fix, while if it is *No*, the separations were automatically adjusted to ensure that all the convex (sub)polygon was completely filled.
+	If Keep original separations is *Yes*, the chosen separations remain fix, while if it is *No*, the separations were automatically adjusted to ensure that all the convex (sub)polygons were completely filled.
 
 * **PythonCode:** the folder contains 5 *.py* files to plot the polygons and the generated infills.
 	* *loadPolygon.py:* this file has the functions needed to load the polygon and split it into polygons of maximum depth 2.
@@ -91,6 +91,7 @@ python3 main.py ../Polygons/ConvexPolygons/CPolygon1.json ../InfillPaths/ConvexP
 ```
 
 ## License
+The resources in this repository are licensed under the Creative Commons Attribution-ShareAlike 3.0 Spain License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/es/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 ## Contact
 If you have any question or suggestion, do not hesitate to contact us at the following addresses:

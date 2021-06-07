@@ -1,4 +1,4 @@
-Separation 1: 0.2, Separation 2: 0.2, Angle: 0 degrees, Keep original separations: Yes
+Separation 1: 0.2, Separation 2: 0.2, Angle: 0 degrees, Keep original separations: No
 X: 9.3308 Y: 23.2393
 X: 10.0211 Y: 23.4815
 X: 9.3842 Y: 23.4815
@@ -850,7 +850,7 @@ X: 9.2232 Y: 25.5396
 X: 9.3156 Y: 25.5469
 X: 9.5824 Y: 25.3105
 X: 9.1088 Y: 23.1614
-Separation 1: 0.2, Separation 2: 0.2, Angle: 0 degrees, Keep original separations: Yes
+Separation 1: 0.2, Separation 2: 0.2, Angle: 0 degrees, Keep original separations: No
 X: 9.1402 Y: 15.8199
 X: 9.3895 Y: 16.0371
 X: 8.8506 Y: 16.0371
@@ -1874,7 +1874,7 @@ X: 8.6359 Y: 17.9788
 X: 7.6081 Y: 17.1958
 X: 7.8509 Y: 16.5368
 X: 8.986 Y: 15.6856
-Separation 1: 0.2, Separation 2: 0.2, Angle: 0 degrees, Keep original separations: Yes
+Separation 1: 0.2, Separation 2: 0.2, Angle: 0 degrees, Keep original separations: No
 X: 35.7398 Y: 15.5296
 X: 36.5387 Y: 15.7455
 X: 35.7066 Y: 15.7455
