@@ -76,7 +76,9 @@ The structure of each *.json* file is as follows:
 	* *plotPolygon.py:* this file has the functions needed to plot the polygon.
 	* *plotInfill.py:* this file has the functions needed to plot the infill generated for a polygon. The function `plotInfill` shows the final infill completely at once. The function `plotInfillSegment2Segment` shows the segments of the infill in the order the printer would print.
 	* *main.py:* this file plots a polygon and all the infills generated for it. By default `plotInfill` function is executed, but one can easily execute `plotInfillSegment2Segment` by uncommenting the line in which is called.
+ 
 
+   Python dependencies: numpy, pyplot (matplotlib)
 * **PolygonsAppearanceAndRelevance:** *.pdf* file that contains a picture of each polygon, a picture of a possible infill for each polygon and a brief sentence explaining why the polygon is relevant for the work.
 
 ## Polygon visualization
