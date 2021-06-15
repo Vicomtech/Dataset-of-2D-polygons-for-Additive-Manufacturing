@@ -79,7 +79,7 @@ The structure of each *.json* file is as follows:
  
 
    Python dependencies: numpy, pyplot (matplotlib)
-* **PolygonsAppearanceAndRelevance:** *.pdf* file that contains a picture of each polygon, a picture of a possible infill for each polygon and a brief sentence explaining why the polygon is relevant for the work.
+* **[PolygonsAppearanceAndRelevance](../main/PolygonsAppearanceAndRelevance.pdf):** *.pdf* file that contains a picture of each polygon, a picture of a possible infill for each polygon and a brief sentence explaining why the polygon is relevant for the work.
 
 ## Polygon visualization
 The code to visualize the polygons and their infills is to be executed in Python3. The input arguments should be:
