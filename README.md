@@ -1,6 +1,7 @@
 # Dataset of 2D polygons for Additive Manufacturing
 The following repository is linked to the article entitled: "Generation of continuous hybrid zig-zag and contour paths for 3D printing". As described in the article, the repository contains a dataset of 15 convex polygons and 20 non-convex polygons in order to validate the methods described in the article.
-If you use any of the provided material in your work, please cite us as follows:
+Please cite this paper in your publications if this dataset helps your research:
+Gorka Gomez, Camilo Cortés, Carles Creus et al. Generation of Continuous Hybrid Zig-zag and Contour Paths For 3D Printing, 23 July 2021, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-608881/v1]
 
 ## Repository structure
 * **Polygons:** the folder contains 2 folders with the coordinates of 35 2D polygons (15 convex and 20 non-convex) in *.json* files.
@@ -79,7 +80,7 @@ The structure of each *.json* file is as follows:
  
 
    Python dependencies: numpy, pyplot (matplotlib)
-* **PolygonsAppearanceAndRelevance:** *.pdf* file that contains a picture of each polygon, a picture of a possible infill for each polygon and a brief sentence explaining why the polygon is relevant for the work.
+* **[PolygonsAppearanceAndRelevance](../main/PolygonsAppearanceAndRelevance.pdf):** *.pdf* file that contains a picture of each polygon, a picture of a possible infill for each polygon and a brief sentence explaining why the polygon is relevant for the work.
 
 ## Polygon visualization
 The code to visualize the polygons and their infills is to be executed in Python3. The input arguments should be:
