@@ -98,8 +98,6 @@ The resources in this repository are licensed under the Creative Commons Attribu
 
 ## Contact
 If you have any question or suggestion, do not hesitate to contact us at the following addresses:
-* Gorka Gomez: ggomez@vicomtech.org
-* Camilo Cortés: ccortes@vicomtech.org
-* Carles Creus: ccreus@vicomtech.org
 * Maialen Zelaia: mzelaia@vicomtech.org
+* Camilo Cortés: ccortes@vicomtech.org
 * Aitor Moreno: amoreno@vicomtech.org
