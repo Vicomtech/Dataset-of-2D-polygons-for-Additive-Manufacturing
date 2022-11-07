@@ -1,7 +1,7 @@
 # Dataset of 2D polygons for Additive Manufacturing
 The following repository is linked to the article entitled: "Generation of continuous hybrid zig-zag and contour paths for 3D printing". As described in the article, the repository contains a dataset of 15 convex polygons and 20 non-convex polygons in order to validate the methods described in the article.
 Please cite this paper in your publications if this dataset helps your research:
-Gorka Gomez, Camilo Cortés, Carles Creus et al. Generation of Continuous Hybrid Zig-zag and Contour Paths For 3D Printing, 23 July 2021, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-608881/v1]
+Gomez, G., Cortés, C., Creus, C. et al. Generation of continuous hybrid zig-zag and contour paths for 3D printing. Int J Adv Manuf Technol 119, 7025–7040 (2022). [https://doi.org/10.1007/s00170-021-08418-z]
 
 ## Repository structure
 * **Polygons:** the folder contains 2 folders with the coordinates of 35 2D polygons (15 convex and 20 non-convex) in *.json* files.
